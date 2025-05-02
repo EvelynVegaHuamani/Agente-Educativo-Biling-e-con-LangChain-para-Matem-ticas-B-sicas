@@ -44,7 +44,7 @@ Explica paso a paso cómo resolver el problema en caso de error, también en que
 El agente utiliza el modelo **ReAct (Razonamiento + Acción)** y sigue este flujo:
 
 **a) generar_problema()**  
-- Genera un problema matemático como: "¿Imayna qanchis ñiqin ñawpaq chayuqmi hoqniyuq chayuqmi kachkan? (7 + 1)"
+- Genera un problema matemático
 
 **b) evaluar_respuesta(respuesta)**  
 - Recibe la respuesta del niño.
