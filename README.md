@@ -22,7 +22,7 @@ El sistema permite que un niño interactúe con el agente mediante lenguaje natu
 
 Todo el flujo se realiza mediante un **agente ReAct** de LangChain usando herramientas personalizadas y memoria contextual.
 
-diagrama_arquitectura.png
+![Diagrama de arquitectura](diagrama_arquitectura.png)
 
 ---
 
